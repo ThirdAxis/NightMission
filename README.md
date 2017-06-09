@@ -2,6 +2,10 @@
 
 
 
+
+Voici le repo pour le projet de pinball.
+L'image preview de l'interface est obsolète, seul le psd est à jour
+
 ```
                                                              
                                                             
@@ -34,5 +38,3 @@
                                                             
                                              
 ```               
-
-Voici le repo pour le projet de pinball
