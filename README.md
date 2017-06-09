@@ -5,6 +5,8 @@
 
 Voici le repo pour le projet de pinball.
 L'image preview de l'interface est obsolète, seul le psd est à jour
+Une vidéo du jeu original pour la référence [ici] (https://www.youtube.com/watch?v=DQJaPwn781Q).
+Et une aide pour l'interface [ici] (https://www.c64-wiki.com/images/4/44/NightMissionPinballTable.jpg).
 
 ```
                                                              
